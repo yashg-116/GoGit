@@ -1,7 +1,8 @@
 # GoGit
 ## Task 1
-You have to Create a .html file (like index.html) host it on Github. Than create a <github-username>.txt file (like shashwat-mittal.txt) in the Participants Folder and mention the link of the Github Page in the txt file.
-  Template for the html file. (You may edit your details in the html..)
+Your first Task consists of 3 steps.
+### Step-1
+Create your own Repo with the name `GoGit-<github-username>`. Here you have to Create a .html file (like index.html) and paste the following content in the file (replacing with your details).
 ```Java
 <!DOCTYPE html>
 <html lang="en">
@@ -18,3 +19,10 @@ You have to Create a .html file (like index.html) host it on Github. Than create
 </body>
 </html>
   ```
+ ### Step-2
+<b>Now, you have to host it on Github and keep the link of the hosted website for Step-3.</b>
+
+### Step-3
+Create a `<github-username>.txt file` (like `shashwat-mittal.txt`) in the <b> Participants Folder of this repo </b> and <b>mention the link of the Github Page</b> in the txt file.
+
+
