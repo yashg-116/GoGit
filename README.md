@@ -29,5 +29,5 @@ Create a Pull Request and while creating it <b>mention the link of the Github Pa
 
 <hr>
 
-Checkout the branch `task2` for the next task
+Checkout to branch `task2` for the next task
 
