@@ -10,7 +10,7 @@
 ### Step-2
 - Now, from your `task4` branch, create a new branch named `abhay`.
 - In `abhay` branch, create a new text file whose name will be `abhay.txt`.
-- Now inside `abhay.txt`, answer this question. **Ques- 
+- Now inside `abhay.txt`, answer this question. **Ques- Tom and Alexa are working on the same project say Hulk. Tom made some changes in the Hulk project and pushed the changes from his local git repository. Alexa wants to see the changes in her local git repo as well. Which of the following command she should use to get the latest version of the project?**
 - Now add your changes and then commit them with this commit message - `Commit-2`.
 
 ### Step-3
