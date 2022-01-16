@@ -4,13 +4,15 @@
 - First checkout to the task4 branch and create a new branch named `PR-branch`.
 - Now in your task4 branch create a new folder whose name will be your GitHub username.
 - Inside this folder create a text file whose name will be `info.txt`.
-- Now inside `info.txt` answer this question. **Ques- Name the topics that you did't understand from FOSS workshops.**
+- Now inside `info.txt` answer this question.</br>
+ **Ques- Name the topics that you did't understand from FOSS workshops.**
 - Now add your changes and then commit them with this commit message - `Commit-1`.
 
 ### Step-2
 - Now, from your `task4` branch, create a new branch named `abhay`.
 - In `abhay` branch, create a new text file whose name will be `abhay.txt`.
-- Now inside `abhay.txt`, answer this question. **Ques- Tom and Alexa are working on the same project say Hulk. Tom made some changes in the Hulk project and pushed the changes from his local git repository. Alexa wants to see the changes in her local git repo as well. Which of the following command she should use to get the latest version of the project?**
+- Now inside `abhay.txt`, answer this question.</br>
+ **Ques- Tom and Alexa are working on the same project say Hulk. Tom made some changes in the Hulk project and pushed the changes from his local git repository. Alexa wants to see the changes in her local git repo as well. Which of the following command she should use to get the latest version of the project?**
 - Now add your changes and then commit them with this commit message - `Commit-2`.
 
 ### Step-3
