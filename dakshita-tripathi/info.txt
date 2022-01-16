@@ -1,1 +1,2 @@
 Hosting a website 
+Git/github can be used to publish your work such as code for a website or app. This published code can be accessed by everyone and hence we can see the changes they have to offer for our code 
