@@ -1,1 +1,2 @@
 Rebasing, Stashing
+Git and Github help us to contribute to open source projects. They give us an efficent way to share our code globally.
