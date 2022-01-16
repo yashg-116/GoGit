@@ -1,1 +1,4 @@
 deleting a commit
+Uses of git/github:
+Multiple developers can work on same project.
+You can track the changes made on project.
