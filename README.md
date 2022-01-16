@@ -16,7 +16,7 @@
 - Now add your changes and then commit them with this commit message - `Commit-2`.
 
 ### Step-3
-- Come back to your `task4` branch and inside `info.txt` file that you created earlier in step-1, answer this question. **Ques- Explain in brief the uses of git/github. **
+- Come back to your `task4` branch and inside `info.txt` file that you created earlier in step-1, answer this question. **Ques- Explain in brief the uses of git/github.**
 - Now add your changes and then commit them with this commit message - `Commit-3`.
 
 ### Step-4
