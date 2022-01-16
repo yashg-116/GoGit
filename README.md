@@ -10,7 +10,7 @@
   Now let's get serious. </br>
   **Ques4-** Suppose i made an empty folder in my local repository. Can i add and commit this change? Answer with a Y/N. </br>
   
-- You should have 4 commits in your branch now. Push these changes to the `task3` branch and then make a PR.
+- You should have 4 commits in your branch now. Push these changes to the `task3` branch and then make a PR. Be sure that you mention the `Issue No.` in the PR.
 
 ### Step-2
 - You know what, I've changed my mind.
