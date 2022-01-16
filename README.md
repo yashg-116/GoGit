@@ -29,7 +29,7 @@
 - In this step you have to bring all the changes that you did in this task (all 3 commits) into this `PR-branch`, and just only bringing is not enough, the method of bringing should be such that there should be no any extra commits other than the 3 commits that you did in this task i.e. only `Commit-1`, `Comit-2` and `Commit-3` should be present and also the final order of the commits in this branch after the valid procedure that you used to bring the changes of other branches into `PR-branch` should be only this.
 
 ![image](https://user-images.githubusercontent.com/75938293/149640060-34879c00-1117-47b1-bcc6-44f4e80efb46.png)
-- Now finally `push all your branches` and on github create a Pull Request from your `PR-branch` to my `task4` branch.
+- Now finally `push all your branches` and on github create a Pull Request from your `PR-branch` to my `task4` branch. Be sure to mention the `Issue No.` in the PR.
 
 ### Note- ☠️ Don't just copy paste your changes and commit them as I want, use a valid git procedure to do this task. If found that you didn't use any valid git procedure, that may lead to a ban from any further contests. 
 
