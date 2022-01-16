@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/75938293/149640060-34879c00-1117-47b1-bcc6-44f4e80efb46.png)
 - Now finally `push all your branches` and on github create a Pull Request from your `PR-branch` to my `task3` branch.
 
-### Note- ☠️ Don't just copy paste your changes and commit them as I want, use a valid git procedure to do this task. If found that you didn't used any valid git procedure, that may leads to ban from contest and may be from apk month too.
+### Note- ☠️ Don't just copy paste your changes and commit them as I want, use a valid git procedure to do this task. If found that you didn't use any valid git procedure, that may lead to a ban from any further contests. 
 
 
 
