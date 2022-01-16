@@ -25,3 +25,7 @@
 - You know what, I've changed my mind again ;). Change the commit message of the last commit present in your branch to `Commit Message changed successfully`
 - Finally, get back the changes you had stored away and commit them with the message `Task 3 Completed`.
 - Push all of these changes, and your task will end. 
+
+<hr>
+
+Checkout to branch `task4` for the next task!
