@@ -6,7 +6,7 @@
 - Now answer the following four questions in the new file. The answer to each question should be present in a different commit with the commit message `Commit <Question No.>`
 - **Ques1-** What is your favourite TV Show/Web Series? </br>
   **Ques2-** Why do you like the show/series? </br>
-  **Ques3-** Name your crush(can be from outside the college too)
+  **Ques3-** Name your crush(can be from outside the college too).</br>
   Now let's get serious. </br>
   **Ques4-** Suppose i made an empty folder in my local repository. Can i add and commit this change? Answer with a Y/N. </br>
   
