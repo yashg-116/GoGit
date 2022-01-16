@@ -1,2 +1,3 @@
 Pull and fetch- slight confusion
 rest all fine
+Git/GitHub is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project. The projects on GitHub are examples of open-source software.
