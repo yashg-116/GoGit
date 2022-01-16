@@ -24,3 +24,5 @@ In your forked Repository you have to Create a ```<github-username>.html``` file
 
 ### Step-3
 Create a Pull Request and while creating it <b>mention the link of the Github Page in the description of the Pull Request.</b>
+![image](https://user-images.githubusercontent.com/74846797/149649303-5670735d-0802-4d76-954d-58dbcdf72483.png)
+
