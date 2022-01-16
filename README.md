@@ -2,7 +2,7 @@
 ## Task 1
 Your first Task consists of 3 steps.
 ### Step-1
-In your forked Repository wou have to Create a ```<github-username>.html``` file like ```shashwat-mittal.html``` and paste the following content in the file (replacing with your details).
+In your forked Repository you have to Create a ```<github-username>.html``` file like ```shashwat-mittal.html``` and paste the following content in the file (replacing with your details).
 ```Java
 <!DOCTYPE html>
 <html lang="en">
