@@ -1,28 +1,30 @@
 # GoGit
-## Task 1
-Your first Task consists of 3 steps.
-### Step-1
-In your forked Repository you have to Create a ```<github-username>.html``` file like ```shashwat-mittal.html``` and paste the following content in the file (replacing with your details).
-```Java
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <p style="font-size:50px">Your Name</p>
-    <p style="font-size:30px">Your Roll No</p>
-    <p style="font-size:30px">Your Discord Id</p>
-</body>
-</html>
-  ```
- ### Step-2
-<b>Now, you have to host it on Github and keep the link of the hosted website for Step-3.</b>
 
-### Step-3
-Create a Pull Request and while creating it <b>mention the link of the Github Page in the description of the Pull Request.</b>
-![image](https://user-images.githubusercontent.com/74846797/149649303-5670735d-0802-4d76-954d-58dbcdf72483.png)
+## Task 2
 
+This task consists of the following steps.
+
+### Step 1
+
+- Checkout to `task2` branch.
+- Create a text file named as `github-username.txt`. For example, if github username is **pankaj1707k** then file name will be `pankaj1707k.txt`.
+- Write the name of your favourite movie/web-series/book in the first line of the file.
+- Commit this change.
+
+## Step 2
+
+- Create a new branch `feature` (and switch to it) from `task2` branch.
+- Write the names of any 2 characters from the movie/web-series/book on lines 2 and 3 of the file.
+- Commit this change.
+
+## Step 3
+
+- Switch back to the `task2` branch.
+- Write 2-3 sentences on why this movie/web-series/book is your favourite, just below its name.
+- Commit this change.
+
+## Final step
+
+- Bring the changes from `feature` branch to the `task2` branch.
+
+**At the end of this task, you should have exactly 4 commits and the data entered in both step 2 & 3 must be present in the file.**
