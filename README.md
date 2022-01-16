@@ -2,7 +2,7 @@
 ## Task 1
 Your first Task consists of 3 steps.
 ### Step-1
-In your forked Repository wou have to Create a <github-username>.html file (like shashwat-mittal.html) and paste the following content in the file (replacing with your details).
+In your forked Repository wou have to Create a ```<github-username>.html``` file like ```shashwat-mittal.html``` and paste the following content in the file (replacing with your details).
 ```Java
 <!DOCTYPE html>
 <html lang="en">
@@ -23,6 +23,4 @@ In your forked Repository wou have to Create a <github-username>.html file (like
 <b>Now, you have to host it on Github and keep the link of the hosted website for Step-3.</b>
 
 ### Step-3
-Create a `<github-username>.txt file` (like `shashwat-mittal.txt`) in the <b> Participants Folder of this repo </b> and <b>mention the link of the Github Page</b> in the txt file.
-
-
+Create a Pull Request and while creating it<b>mention the link of the Github Page in the description of the Pull Request.</b>
