@@ -23,4 +23,4 @@ In your forked Repository you have to Create a ```<github-username>.html``` file
 <b>Now, you have to host it on Github and keep the link of the hosted website for Step-3.</b>
 
 ### Step-3
-Create a Pull Request and while creating it<b>mention the link of the Github Page in the description of the Pull Request.</b>
+Create a Pull Request and while creating it <b>mention the link of the Github Page in the description of the Pull Request.</b>
