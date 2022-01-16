@@ -28,3 +28,7 @@ This task consists of the following steps.
 - Bring the changes from `feature` branch into the `task2` branch.
 
 **At the end of this task, you should have exactly 4 commits and the data entered in both step 2 & 3 must be present in the file. Push these changes and make a PR. Be sure to mention the Issue No. as well in the PR.**
+
+<hr>
+
+Checkout to branch `task3` for the next task.
