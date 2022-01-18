@@ -1,0 +1,5 @@
+I am clear with all concepts taught in FOSS.
+
+Git is a VCS and keeps track of files and saves info such as what, when and who made changed to a file.
+Github is a online server to store remote repositories. It allows us to collborate with thousands of devolopers around the world and
+contribute to their work. It is useful for collaboration anf when multiple people are working on same project.

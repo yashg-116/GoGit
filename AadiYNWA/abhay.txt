@@ -1,0 +1,2 @@
+Alexa must use pull command.
+git pull origin <branch_name>
