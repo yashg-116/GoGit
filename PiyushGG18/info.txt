@@ -1,0 +1,3 @@
+well I understood everything not at an advanced level but all that was in ppt was readable as well as understandable now
+Git is useful to make projects available to other people who each other by working together on same project whitout having dependency 
+on other's work while github is one of the platform which offers this services

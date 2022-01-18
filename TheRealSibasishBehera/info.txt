@@ -1,0 +1,6 @@
+i would like to know more about push flags and reset flags
+git is a excellent platform to record changes in your local file
+using git we can pull some code as well as push ours
+this helps in collabarating with other other organisation and developers
+github is a platform to host your work and to request for merging you changes in original remote repo
+ 

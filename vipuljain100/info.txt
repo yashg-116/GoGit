@@ -1,0 +1,3 @@
+Rebasing and Stash
+Developers and Programmers can collaborate to work on code. The primary benefit is its Version Control System which 
+allows for seamless collaboration without compromising the integrity of the original project.

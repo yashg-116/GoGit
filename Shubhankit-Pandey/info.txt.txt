@@ -1,0 +1,3 @@
+Reset commands (help,mixed,soft)
+Since it is DVCS many people can work on a large project according to their will and choice without caring about
+what changes other person has made. Even if one user corrupts a file he can always switch back to original one.
